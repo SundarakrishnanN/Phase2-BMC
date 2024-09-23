@@ -3,6 +3,7 @@
 Submission Received "Special Recognition Award" for the phase 2 of the hackathon. <br/> <br/>
 Members: Sundarakrishnan N, Sohan Varier, Tarun Bhupathi, Manaswini SK of RV College of Engineering
 <br/> For more details on the implementation,check the report: [Link](https://drive.google.com/drive/folders/1SgSUCLQtGbJ0AU8lXPIoKuy1wrObCNiG)
+<br/> More details about the event can be found here: [Link](https://dataforpublicgood.org.in/bengaluru-mobility-challenge-2024/)
 ### Docker
 A Dockerfile has been created to install necessary libraries including CUDA for the model to be able to use GPUs. The docker file can be built and run in a simple way.\
 Build: `docker build -t username/imagename:version`\
